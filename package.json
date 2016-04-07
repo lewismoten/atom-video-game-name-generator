@@ -1,0 +1,30 @@
+{
+  "name": "atom-video-game-name-generator",
+  "main": "./lib/atom-video-game-name-generator",
+  "version": "0.1.0",
+  "description": "Generate video game names",
+  "keywords": [
+    "generator",
+    "random",
+    "video game",
+    "names",
+    "arcade",
+    "games",
+    "retro",
+    "data entry",
+    "testing"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "atom-video-game-name-generator:generate",
+      "atom-video-game-name-generator:generateSimilar"
+    ]
+  },
+  "repository": "https://github.com/atom/atom-video-game-name-generator",
+  "license": "other",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

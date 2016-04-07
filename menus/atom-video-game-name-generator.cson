@@ -1,0 +1,35 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'VGNG'
+      'submenu': [
+        {
+          'label': 'Generate'
+          'command': 'atom-video-game-name-generator:generateSimilar'
+        },
+        {
+          'label': 'Generate w/o similar terms'
+          'command': 'atom-video-game-name-generator:generate'
+        }
+      ]
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'VGNG'
+      'submenu': [
+        {
+          'label': 'Generate'
+          'command': 'atom-video-game-name-generator:generateSimilar'
+        },
+        {
+          'label': 'Generate w/o similar terms'
+          'command': 'atom-video-game-name-generator:generate'
+        }
+      ]
+    ]
+  }
+]
