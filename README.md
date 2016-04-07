@@ -1,6 +1,6 @@
 # atom-video-game-name-generator package
 
-![The Video Game Generator](https://github.com/lewismoten/atom-video-game-name-generator/raw/master/assets/the-video-game-generator.png)
+![The Video Game Generator](https://raw.githubusercontent.com/lewismoten/atom-video-game-name-generator/master/assets/the-video-game-generator.png)
 
 This is a port of [The Video Game Name Generator](http://videogamena.me) (VGNG). This package allows you to generate random video game names in your text editor. This is great for test data and data entry. A few examples:
 
@@ -12,7 +12,7 @@ This is a port of [The Video Game Name Generator](http://videogamena.me) (VGNG).
 
 Commands are accessible under the packages menu for VGNG and the context menu, as well as some key bindings and commands.
 
-![A screenshot of the video game name generator in action](https://github.com/lewismoten/atom-video-game-name-generator/blob/master/assets/demo.gif)
+![A screenshot of the video game name generator in action](https://raw.githubusercontent.com/lewismoten/atom-video-game-name-generator/master/assets/demo.gif)
 
 ## Commands
 
