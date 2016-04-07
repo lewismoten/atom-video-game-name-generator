@@ -1,7 +1,7 @@
 {
   "name": "atom-video-game-name-generator",
   "main": "./lib/atom-video-game-name-generator",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Generate video game names",
   "keywords": [
     "generator",
@@ -20,7 +20,7 @@
       "atom-video-game-name-generator:generateSimilar"
     ]
   },
-  "repository": "https://github.com/atom/atom-video-game-name-generator",
+  "repository": "https://github.com/lewismoten/atom-video-game-name-generator",
   "license": "other",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
