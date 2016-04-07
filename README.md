@@ -47,6 +47,6 @@ video_game_names.txt, and the syntax should be simple enough to figure out
 "^" and separated by pipes "|".) I only ask that, if you copy the VGNG for
 your site, please don't use it for any profit-generating purpose (charging
 for it or selling ads), and include a link back to this site.
+```
 
 http://videogamena.me/about.html
-```
