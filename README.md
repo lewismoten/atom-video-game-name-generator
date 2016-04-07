@@ -1,6 +1,6 @@
 # atom-video-game-name-generator package
 
-![The Video Game Generator](/assets/the-video-game-generator.jpg)
+![The Video Game Generator](/assets/the-video-game-generator.gif)
 
 This is a port of [The Video Game Name Generator](http://videogamena.me) (VGNG). This package allows you to generate random video game names in your text editor. This is great for test data and data entry. A few examples:
 
